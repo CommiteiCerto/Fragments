@@ -30,8 +30,6 @@ public class MainActivity extends AppCompatActivity {
         getSupportActionBar().setElevation(0);
 
 
-
-
         buttonContatos.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
